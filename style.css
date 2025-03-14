@@ -1,0 +1,25 @@
+th,
+td{
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #3eff4e;
+    padding: 10px;
+    text-align: center;
+}
+
+.tabela{
+
+    width: 60%;
+}
+
+.relatorio{
+    display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+th{
+    background-color: #000;
+    color: white;
+}
